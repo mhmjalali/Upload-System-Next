@@ -1,4 +1,3 @@
-usage document:
 1.) use <UploadSystem /> component inside your page
 2.) list of props that you need to send is down below
 2.1) selectedImage // this value come from useState that you need to write on your own component
@@ -27,4 +26,3 @@ const handleUploadChange[your special name]] = (event, setFieldValue) => {
   setFieldValue("[your special name]]_img", uploadedFile); set field value for sending data (this automaticaly append value in initial state)
  }
 };
-//////****** end usage document ******/////////
