@@ -1,4 +1,4 @@
-usage document
+usage document:
 1.) use <UploadSystem /> component inside your page
 2.) list of props that you need to send is down below
 2.1) selectedImage // this value come from useState that you need to write on your own component
